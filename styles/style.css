@@ -50,6 +50,12 @@ h1 {
   box-shadow: 10px 10px 40px gray;
 }
 
+.footer {
+  text-align: center;
+  background-color: gainsboro;
+  padding: 10px;
+}
+
 /* Responsive */
 /* @media screen and (max-width: "333px") {
   .container {
