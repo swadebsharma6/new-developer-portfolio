@@ -29,6 +29,26 @@ h1 {
   background-position: right;
   margin-bottom: 120px;
 }
+.experience-bg {
+  background-image: url("../images/images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  margin-bottom: 120px;
+}
+.experience-container {
+  display: flex;
+  gap: 20px;
+}
+.full-time {
+  border-left: 8px solid blue;
+  padding: 20px;
+  box-shadow: 10px 10px 40px gray;
+}
+.baby-dev {
+  border-left: 8px solid red;
+  padding: 20px;
+  box-shadow: 10px 10px 40px gray;
+}
 
 /* Responsive */
 /* @media screen and (max-width: "333px") {
